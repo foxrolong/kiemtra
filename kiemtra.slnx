@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BAI1/BAI1.csproj" Id="c24ef3be-0258-413d-bd77-99e582018f52" />
+  <Project Path="BAI2/BAI2.csproj" Id="a2902f12-9312-4f1e-aa29-0b1e2e96af86" />
+  <Project Path="kiemtra/kiemtra.csproj" Id="99bf81b2-fd1a-4ab9-9c8d-03ac8aefdd83" />
+</Solution>
